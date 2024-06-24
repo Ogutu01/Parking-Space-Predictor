@@ -1,0 +1,9 @@
+[theme]
+primaryColor = '#6D2E46'
+backgroundColor = '#1d3557'
+secondaryBackgroundColor = '#0A131E'
+textColor = '#FFFBFC'
+font = "sans serif"
+
+[mapbox]
+token='pk.eyJ1IjoibW1tOTciLCJhIjoiY2xzanlyY2c4MnB0dDJrbzUxZHAxZHV3bCJ9.lUL5g02lR5qSqzReeORPxQ'
